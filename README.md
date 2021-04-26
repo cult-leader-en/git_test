@@ -1,0 +1,1 @@
+This is Cult Leader's first git project!
